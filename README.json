@@ -128,7 +128,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4503
+                "stars": 4504
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2022-11-22T23:28:35Z",
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11887
+                "stars": 11886
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14919
+                "stars": 14920
               }
             },
             {
@@ -290,7 +290,7 @@
                 "last_commit": "2023-07-02T22:46:23Z",
                 "owner": "oxford-cs-deepnlp-2017",
                 "repo": "lectures",
-                "stars": 15856
+                "stars": 15854
               }
             },
             {
@@ -346,7 +346,7 @@
             "last_commit": "2024-03-22T21:40:44Z",
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26539
+            "stars": 26538
           }
         },
         {
@@ -433,7 +433,7 @@
                 "last_commit": "2024-03-22T21:40:44Z",
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26539
+                "stars": 26538
               }
             },
             {
@@ -478,7 +478,7 @@
                 "last_commit": "2022-11-22T23:28:35Z",
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11887
+                "stars": 11886
               }
             },
             {
@@ -672,10 +672,10 @@
                 "archived": false,
                 "id": 3119517,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:32:42Z",
+                "last_commit": "2026-08-19T13:08:00Z",
                 "owner": "py-pdf",
                 "repo": "pypdf",
-                "stars": 10161
+                "stars": 10163
               }
             },
             {
@@ -731,7 +731,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78143
+            "stars": 78148
           }
         },
         {
@@ -746,7 +746,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78143
+            "stars": 78148
           }
         },
         {
@@ -842,7 +842,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74070
+            "stars": 74075
           }
         },
         {
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:39.597Z",
+    "last_updated": "2026-08-19T19:45:32.809Z",
     "original_repository": "stepthom/text_mining_resources",
     "original_repository_id": 73315878,
     "original_repository_sha": "31fb395f04a716f027d39ade01a5fd8cba10c5b9",
