@@ -76,7 +76,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40047
+                "stars": 40046
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14923
+                "stars": 14924
               }
             },
             {
@@ -302,7 +302,7 @@
                 "archived": false,
                 "id": 159091924,
                 "language": "HTML",
-                "last_commit": "2024-10-19T17:28:52Z",
+                "last_commit": "2026-08-22T15:46:06Z",
                 "owner": "kmario23",
                 "repo": "deep-learning-drizzle",
                 "stars": 12931
@@ -675,7 +675,7 @@
                 "last_commit": "2026-08-21T14:39:24Z",
                 "owner": "py-pdf",
                 "repo": "pypdf",
-                "stars": 10164
+                "stars": 10166
               }
             },
             {
@@ -731,7 +731,7 @@
             "last_commit": "2026-08-21T17:12:16Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78376
+            "stars": 78472
           }
         },
         {
@@ -746,7 +746,7 @@
             "last_commit": "2026-08-21T17:12:16Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78376
+            "stars": 78472
           }
         },
         {
@@ -842,7 +842,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74097
+            "stars": 74117
           }
         },
         {
@@ -857,7 +857,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18918
+            "stars": 18919
           }
         },
         {
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:43:41.621Z",
+    "last_updated": "2026-08-22T19:42:19.135Z",
     "original_repository": "stepthom/text_mining_resources",
     "original_repository_id": 73315878,
     "original_repository_sha": "31fb395f04a716f027d39ade01a5fd8cba10c5b9",
