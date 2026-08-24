@@ -102,7 +102,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### General <a id="general-articles"></a>
 
-* [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) ⭐ 3,845 | 🐛 2 | 📅 2021-07-09
+* [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) ⭐ 3,846 | 🐛 2 | 📅 2021-07-09
 * [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty) ⭐ 2,602 | 🐛 49 | 🌐 Ruby | 📅 2021-06-24
 * [NLP in healthcare](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/natural-language-processing-in-healthcare). How NLP can be used by healthcare payers and providers.
 * [AI Harvard Business Review](https://hbr.org/2018/07/ais-next-great-challenge-understanding-the-nuances-of-language). The impact of improvement in NLP on human interaction with machines.
@@ -197,6 +197,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Document Classification
 
+* [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](https://github.com/libofang/DV-ngram) ⭐ 25 | 🐛 2 | 🌐 C | 📅 2016-04-23 - paper with code on Github
 * [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html), 2014. An in-depth overview of both the Naive Bayes algorithm and how it can be used in the document classification process.
 * [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759), 2016. A paper from Facebook researchers that introduces fastText, a fast and effective document classification algorithm.
 * [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278), 2017. A blog article that shows how to apply several deep learning algorithms to document classification problems.
@@ -208,7 +209,6 @@ A curated list of resources for learning about natural language processing, text
 * [Ultimate guide to deal with Text Data (using Python) – for Data Scientists & Engineers](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python), 2018. The title says it all.
 * [Text Classification in Python with scikit-learn and nltk](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a), 2017. Another tutorial showing how to perform text classification using scikit-learn.
 * [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2019/09/10/multifit.html), 2019. Introduces a groundbreaking transfer learning method for document classification.
-* [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](https://github.com/libofang/DV-ngram) ⭐ 25 | 🐛 2 | 🌐 C | 📅 2016-04-23 - paper with code on Github
 * [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf), 2019. A paper that describes a new approach for explaining the inner workings of text classification models.
 
 ### Entity and Information Extraction
@@ -219,10 +219,10 @@ A curated list of resources for learning about natural language processing, text
 
 ### Document Clustering and Document Similarity
 
+* [Document Clustering with Python](https://github.com/harrywang/document_clustering) ⭐ 30 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-05-24 A GitHub repository that clusters IMDB movie descriptions. Based on [this original tutorial](http://brandonrose.org/clustering), whose GitHub repo is [here](https://github.com/brandomr/document_cluster) ⭐ 512 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2018-12-14.
 * [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html). July 2017.
 * [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
 * [Document Clustering: A Detailed Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.8494\&rep=rep1\&type=pdf). Shah and Mahajan. IJAIS 2012.
-* [Document Clustering with Python](https://github.com/harrywang/document_clustering) ⭐ 30 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-05-24 A GitHub repository that clusters IMDB movie descriptions. Based on [this original tutorial](http://brandonrose.org/clustering), whose GitHub repo is [here](https://github.com/brandomr/document_cluster) ⭐ 512 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2018-12-14.
 * [Text mining and sentiment analysis on video game user reviews using SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.pdf)
 * [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
 
@@ -275,12 +275,12 @@ A curated list of resources for learning about natural language processing, text
 
 #### Stock Market
 
+* [Trump2Cash: A stock trading bot powered by Trump tweets](https://github.com/maxbbraun/trump2cash) ⚠️ Archived. A bot that watches Donald Trump's Twitter account and waits for him to mention any publicly-traded companies. A [related blog article](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.3232hx7gx) describes a bot that turns Trump's tweets into Planned Parenthood donations.
 * [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003), 2010. A journal article that measures the "mood" of daily Twitter feedsa and shows that the moods can predict the DJIA.
 * [A nonlinear impact: evidences of causal effects of social
   media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf), 2016. A journal article that shows that social media's relationship with the DJIA is nonlinear.
 * [Forbes: How Quant Traders Use Sentiment To Get An Edge On The Market](http://www.forbes.com/sites/kumesharoomoogan/2015/08/06/how-quant-traders-use-sentiment-to-get-an-edge-on-the-market/#6266d9ec2fd8), 2015. An article that shows how quant traders can use sentiment analysis.
 * [Sentdex: Quantifying the Qualitative](http://sentdex.com/financial-analysis/). An online tool that measures the overall sentiment of different stocks.
-* [Trump2Cash: A stock trading bot powered by Trump tweets](https://github.com/maxbbraun/trump2cash) ⚠️ Archived. A bot that watches Donald Trump's Twitter account and waits for him to mention any publicly-traded companies. A [related blog article](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.3232hx7gx) describes a bot that turns Trump's tweets into Planned Parenthood donations.
 
 #### Applications
 
@@ -324,6 +324,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Q\&A Systems, Chatbots <a id="qa-systems"></a>
 
+* [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding](https://github.com/IBM/watson-banking-chatbot) ⚠️ Archived
 * [Meet Lucy: Creating a Chatbot Prototype](http://www.kdnuggets.com/2017/09/meet-lucy-chatbot-prototype.html)
 * [Microsoft Bot Framework](https://dev.botframework.com/).
 * [Training Millions of Personalized Dialogue Agents](https://arxiv.org/abs/1809.01984)
@@ -331,7 +332,6 @@ A curated list of resources for learning about natural language processing, text
 * [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e). Sep 2018
 * [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 * [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
-* [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding](https://github.com/IBM/watson-banking-chatbot) ⚠️ Archived
 * [Generative Model Chatbots- May 2017](https://medium.com/botsupply/generative-model-chatbots-e422ab08461e)
 * [A Guide to Building a Multi-Featured Slackbot with Python- March 2017](https://hackernoon.com/a-guide-to-building-a-multi-featured-slackbot-with-python-73ea5394acc)
 * [Building a Simple Chatbot from Scratch in Python (Using NLTK)- September 2018](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
@@ -402,8 +402,8 @@ A curated list of resources for learning about natural language processing, text
 
 #### ChatGPT
 
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,847 | 🐛 69 | 🌐 HTML | 📅 2026-08-24
 * [ChatGPT launch blog](https://openai.com/blog/chatgpt/)
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,813 | 🐛 68 | 🌐 HTML | 📅 2026-08-23
 
 ##### ...in Education
 
@@ -417,7 +417,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Deep Learning
 
-* [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) ⭐ 14,926 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21: A 2019 NLP tutorial repository using TensorFlow and Pytorch.
+* [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) ⭐ 14,925 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21: A 2019 NLP tutorial repository using TensorFlow and Pytorch.
 * [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2018-08-22.
 * [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/).
   * First half of the article describes RNNs, the anatomy of an LSTM cell, LSTM networks. Second half is a walkthrough of features in Keras for LSTM implementation using generators for data input.
@@ -500,8 +500,8 @@ A curated list of resources for learning about natural language processing, text
 #### Others
 
 * [Deep Learning for NLP](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02. DeepMind and University of Oxford Department of Computer Science.
-* [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) ⭐ 12,932 | 🐛 5 | 🌐 HTML | 📅 2026-08-22 : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
-* [YSDA NLP course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,654 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-06-01. [Yandex School of data analysis](https://yandexdataschool.com/).
+* [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) ⭐ 12,934 | 🐛 5 | 🌐 HTML | 📅 2026-08-22 : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
+* [YSDA NLP course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,654 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24. [Yandex School of data analysis](https://yandexdataschool.com/).
 * [Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 * [CMU CS 11-747: Neural Network for NLP](http://phontron.com/class/nn4nlp2017/)
 * [CMU Language and Statistics II: (More) Empirical Methods in Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
@@ -545,7 +545,7 @@ A curated list of resources for learning about natural language processing, text
   * [Udpipe](https://cran.r-project.org/web/packages/udpipe/readme/README.html) Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing using UDPipe.
 * [Python modules](https://pypi.org/)
   * [fastText](https://github.com/facebookresearch/fastText/tree/master/python) ⚠️ Archived: Library for efficient learning of word representations and sentence classification.
-  * [flair](https://github.com/zalandoresearch/flair) ⭐ 14,383 | 🐛 31 | 🌐 Python | 📅 2025-10-27: A very simple framework for state-of-the-art Natural Language Processing (NLP)
+  * [flair](https://github.com/zalandoresearch/flair) ⭐ 14,384 | 🐛 31 | 🌐 Python | 📅 2025-10-27: A very simple framework for state-of-the-art Natural Language Processing (NLP)
   * [Bert As A Service](https://github.com/hanxiao/bert-as-service) ⭐ 12,836 | 🐛 303 | 🌐 Python | 📅 2024-01-23: Client/Server package for sentence encoding, i.e. mapping a variable-length sentence to a fixed-length vector.  Design intent to provide a scalable production ready service, also allowing researchers to apply BERT quickly.
   * [AllenNLP](https://github.com/allenai/allennlp) ⚠️ Archived: Open-source NLP research library, built on PyTorch.
   * [Google Seq2Seq](https://github.com/google/seq2seq) ⚠️ Archived: A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.
@@ -553,7 +553,7 @@ A curated list of resources for learning about natural language processing, text
   * [Texthero](https://github.com/jbesomi/texthero) ⭐ 2,907 | 🐛 82 | 🌐 Python | 📅 2023-08-29 Text preprocessing, representation and visualization from zero to hero.
   * [Scattertext](https://github.com/JasonKessler/scattertext) ⭐ 2,341 | 🐛 23 | 🌐 Python | 📅 2026-07-04: Beautiful visualizations of how language differs among document types.
   * [Glove-Python](https://github.com/maciejkula/glove-python) ⭐ 1,253 | 🐛 66 | 🌐 Python | 📅 2022-02-19: A “toy” implementation of GloVe in Python. Includes a paragraph embedder.
-  * [sent2vec](https://github.com/epfml/sent2vec) ⭐ 1,202 | 🐛 30 | 🌐 C++ | 📅 2022-08-03: General purpose unsupervised sentence representations.
+  * [sent2vec](https://github.com/epfml/sent2vec) ⭐ 1,201 | 🐛 30 | 🌐 C++ | 📅 2022-08-03: General purpose unsupervised sentence representations.
   * [Keras-BERT](https://github.com/Separius/BERT-keras) ⚠️ Archived: A Keras Implementation of BERT
   * [BigARTM](https://github.com/bigartm/bigartm) ⭐ 675 | 🐛 136 | 🌐 C++ | 📅 2026-02-05: Fast topic modeling platform.
   * [Paragraph embedding scripts and Pre-trained models](https://github.com/jhlau/doc2vec) ⭐ 652 | 🐛 6 | 🌐 Python | 📅 2025-09-10: Scripts for training and testing paragraph vectors, with links to some pre-trained Doc2Vec and Word2Vec models
@@ -601,6 +601,7 @@ A curated list of resources for learning about natural language processing, text
 
 ## Products
 
+* [Anafora](https://github.com/weitechen/anafora) ⭐ 242 | 🐛 43 | 🌐 JavaScript | 📅 2022-10-10: Free and open source web-based raw text annotation tool
 * [Systran - Enterprise Translation Products](http://www.systransoft.com/translation-products/)
 * [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
 * [SAS Sentiment Analysis](http://www.sas.com/en_ca/software/analytics/sentiment-analysis.html)
@@ -623,7 +624,6 @@ A curated list of resources for learning about natural language processing, text
 * [Monkey Learn](http://monkeylearn.com/)
 * [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams.
 * [UBIAI](https://ubiai.tools). Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling
-* [Anafora](https://github.com/weitechen/anafora) ⭐ 241 | 🐛 43 | 🌐 JavaScript | 📅 2022-10-10: Free and open source web-based raw text annotation tool
 * [brat](http://brat.nlplab.org/): Rapid annotation tool.
 * [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
 * [Lyrebird.ai](https://lyrebird.ai/): “Ultra-Realistic Voice Cloning and Text-to-Speech” recognition platform. This Canadian start-up has created a product/platform that syncs both voice cloning with text-to-speech. Lyrebird recognizes the intonations and voice patterns from audio recordings, and overlays text data input to recreate a text-to-speech audio file output from the selected voice pattern audio recording.
@@ -645,7 +645,7 @@ A curated list of resources for learning about natural language processing, text
 
 #### Getting Data out of PDFs
 
-* [PyPDF2](https://github.com/mstamy2/PyPDF2) ⭐ 10,168 | 🐛 137 | 🌐 Python | 📅 2026-08-23: PDF file manipulation (PDF to PDF).
+* [PyPDF2](https://github.com/mstamy2/PyPDF2) ⭐ 10,169 | 🐛 136 | 🌐 Python | 📅 2026-08-24: PDF file manipulation (PDF to PDF).
 * [pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract) ⭐ 2,255 | 🐛 5 | 🌐 Python | 📅 2022-06-24
 * [PDFLayoutTextStripper: Converts a pdf file into a text file while keeping the layout of the original pdf.](https://github.com/JonathanLink/PDFLayoutTextStripper) ⭐ 1,608 | 🐛 25 | 🌐 Java | 📅 2023-12-17
 * [Apache PDFBox](https://pdfbox.apache.org/)
@@ -668,8 +668,8 @@ A curated list of resources for learning about natural language processing, text
 
 ## Datasets
 
-* [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language) ⭐ 78,543 | 🐛 159 | 📅 2026-08-21
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,543 | 🐛 159 | 📅 2026-08-21
+* [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language) ⭐ 78,583 | 🐛 159 | 📅 2026-08-23
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,583 | 🐛 159 | 📅 2026-08-23
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,994 | 🐛 12 | 📅 2023-02-15
 * [Hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language) ⭐ 847 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-12
 * [Awesome Twitter](https://github.com/hridaydutta123/awesome-twitter-tools/blob/master/README.md) ⭐ 240 | 🐛 5 | 📅 2026-08-20
@@ -712,12 +712,12 @@ A curated list of resources for learning about natural language processing, text
 
 ### Lexicons for Sentiment Analysis
 
+* [vaderSentiment](https://github.com/cjhutto/vaderSentiment) ⭐ 5,052 | 🐛 56 | 🌐 Python | 📅 2026-03-02
 * [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
 * [SentiWordNet](http://sentiwordnet.isti.cnr.it/)
 * [AFINN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010)
 * [Bing](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 * [nrc](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
-* [vaderSentiment](https://github.com/cjhutto/vaderSentiment) ⭐ 5,050 | 🐛 56 | 🌐 Python | 📅 2026-03-02
 
 ## Misc
 
@@ -734,8 +734,8 @@ A curated list of resources for learning about natural language processing, text
 
 ## Other Curated Lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp) ⭐ 74,131 | 🐛 26 | 🌐 Python | 📅 2026-08-21
-* [awesome-nlp](https://github.com/keonkim/awesome-nlp) ⭐ 18,924 | 🐛 13 | 📅 2026-08-18: A curated list of resources dedicated to Natural Language Processing (NLP)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp) ⭐ 74,141 | 🐛 26 | 🌐 Python | 📅 2026-08-21
+* [awesome-nlp](https://github.com/keonkim/awesome-nlp) ⭐ 18,926 | 🐛 13 | 📅 2026-08-18: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) ⭐ 1,309 | 🐛 1 | 📅 2026-01-24
 * [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.
 * [Chinese NLP Tools](https://datascience.shanghai.nyu.edu/chinese-nlp-tools). 2019. List of tools for NLP in Chinese Language.
@@ -755,4 +755,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
