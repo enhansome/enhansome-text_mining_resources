@@ -122,7 +122,7 @@
                     "last_commit": "2023-05-23T00:51:23Z",
                     "owner": "maxbbraun",
                     "repo": "trump2cash",
-                    "stars": 6534
+                    "stars": 6533
                   }
                 }
               ],
@@ -164,7 +164,7 @@
                 "last_commit": "2022-10-09T08:07:34Z",
                 "owner": "tensorflow",
                 "repo": "nmt",
-                "stars": 6455
+                "stars": 6454
               }
             },
             {
@@ -223,7 +223,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4505
+                "stars": 4506
               }
             },
             {
@@ -238,7 +238,7 @@
                 "last_commit": "2024-02-21T18:15:38Z",
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1059
+                "stars": 1060
               }
             },
             {
@@ -344,7 +344,7 @@
                     "last_commit": "2026-08-25T03:21:48Z",
                     "owner": "f",
                     "repo": "prompts.chat",
-                    "stars": 167871
+                    "stars": 167891
                   }
                 }
               ],
@@ -371,7 +371,7 @@
                 "last_commit": "2024-02-21T13:49:10Z",
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14925
+                "stars": 14924
               }
             },
             {
@@ -811,10 +811,10 @@
                 "archived": false,
                 "id": 3119517,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:38:31Z",
+                "last_commit": "2026-08-25T15:39:06Z",
                 "owner": "py-pdf",
                 "repo": "pypdf",
-                "stars": 10170
+                "stars": 10171
               }
             },
             {
@@ -867,10 +867,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-24T19:56:43Z",
+            "last_commit": "2026-08-25T16:12:04Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78603
+            "stars": 78629
           }
         },
         {
@@ -882,10 +882,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-24T19:56:43Z",
+            "last_commit": "2026-08-25T16:12:04Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78603
+            "stars": 78629
           }
         },
         {
@@ -915,7 +915,7 @@
             "last_commit": "2023-06-12T07:40:46Z",
             "owner": "t-davidson",
             "repo": "hate-speech-and-offensive-language",
-            "stars": 847
+            "stars": 848
           }
         },
         {
@@ -977,7 +977,7 @@
                 "last_commit": "2026-03-02T15:09:02Z",
                 "owner": "cjhutto",
                 "repo": "vaderSentiment",
-                "stars": 5052
+                "stars": 5053
               }
             }
           ],
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74148
+            "stars": 74151
           }
         },
         {
@@ -1018,7 +1018,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18930
+            "stars": 18931
           }
         },
         {
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:55.724Z",
+    "last_updated": "2026-08-25T19:51:02.531Z",
     "original_repository": "stepthom/text_mining_resources",
     "original_repository_id": 73315878,
     "original_repository_sha": "31fb395f04a716f027d39ade01a5fd8cba10c5b9",
