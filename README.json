@@ -17,7 +17,7 @@
                 "last_commit": "2021-07-09T15:21:35Z",
                 "owner": "mhagiwara",
                 "repo": "100-nlp-papers",
-                "stars": 3846
+                "stars": 3847
               }
             },
             {
@@ -149,7 +149,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046
+                "stars": 40045
               }
             },
             {
@@ -223,7 +223,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4508
+                "stars": 4509
               }
             },
             {
@@ -238,7 +238,7 @@
                 "last_commit": "2024-02-21T18:15:38Z",
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1060
+                "stars": 1061
               }
             },
             {
@@ -344,7 +344,7 @@
                     "last_commit": "2026-08-27T10:04:29Z",
                     "owner": "f",
                     "repo": "prompts.chat",
-                    "stars": 168051
+                    "stars": 168090
                   }
                 }
               ],
@@ -444,7 +444,7 @@
                 "last_commit": "2026-08-24T10:40:57Z",
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10655
+                "stars": 10657
               }
             }
           ],
@@ -811,10 +811,10 @@
                 "archived": false,
                 "id": 3119517,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:06:35Z",
+                "last_commit": "2026-08-27T15:59:17Z",
                 "owner": "py-pdf",
                 "repo": "pypdf",
-                "stars": 10175
+                "stars": 10173
               }
             },
             {
@@ -867,10 +867,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-27T22:41:18Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78670
+            "stars": 78680
           }
         },
         {
@@ -882,10 +882,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-27T22:41:18Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78670
+            "stars": 78680
           }
         },
         {
@@ -977,7 +977,7 @@
                 "last_commit": "2026-03-02T15:09:02Z",
                 "owner": "cjhutto",
                 "repo": "vaderSentiment",
-                "stars": 5053
+                "stars": 5054
               }
             }
           ],
@@ -1000,10 +1000,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:24Z",
+            "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74177
+            "stars": 74188
           }
         },
         {
@@ -1018,7 +1018,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18936
+            "stars": 18937
           }
         },
         {
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:03.048Z",
+    "last_updated": "2026-08-28T03:37:16.486Z",
     "original_repository_info": {
       "archived": false,
       "id": 73315878,

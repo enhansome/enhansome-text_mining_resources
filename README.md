@@ -102,7 +102,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### General <a id="general-articles"></a>
 
-* [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) ⭐ 3,846 | 🐛 2 | 📅 2021-07-09
+* [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) ⭐ 3,847 | 🐛 2 | 📅 2021-07-09
 * [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty) ⭐ 2,602 | 🐛 49 | 🌐 Ruby | 📅 2021-06-24
 * [NLP in healthcare](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/natural-language-processing-in-healthcare). How NLP can be used by healthcare payers and providers.
 * [AI Harvard Business Review](https://hbr.org/2018/07/ais-next-great-challenge-understanding-the-nuances-of-language). The impact of improvement in NLP on human interaction with machines.
@@ -343,8 +343,8 @@ A curated list of resources for learning about natural language processing, text
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
 
-* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,508 | 🐛 91 | 🌐 Python | 📅 2025-07-29: A Python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
-* [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,060 | 🐛 64 | 🌐 Python | 📅 2024-02-21: A toolkit for record linkage and deduplication written in Python.
+* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,509 | 🐛 91 | 🌐 Python | 📅 2025-07-29: A Python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
+* [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,061 | 🐛 64 | 🌐 Python | 📅 2024-02-21: A toolkit for record linkage and deduplication written in Python.
 * [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink) ⭐ 293 | 🐛 36 | 🌐 R | 📅 2026-02-28
 * [agrep method in R](http://stat.ethz.ch/R-manual/R-devel/library/base/html/agrep.html). Approximate String Matching (Fuzzy Matching)
 * [fuzzywuzzy package in R](https://cran.r-project.org/web/packages/fuzzywuzzyR/index.html). [Example usage](http://mlampros.github.io/2017/04/13/fuzzywuzzyR_package).
@@ -402,7 +402,7 @@ A curated list of resources for learning about natural language processing, text
 
 #### ChatGPT
 
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,051 | 🐛 68 | 🌐 HTML | 📅 2026-08-27
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,090 | 🐛 68 | 🌐 HTML | 📅 2026-08-27
 * [ChatGPT launch blog](https://openai.com/blog/chatgpt/)
 
 ##### ...in Education
@@ -501,7 +501,7 @@ A curated list of resources for learning about natural language processing, text
 
 * [Deep Learning for NLP](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02. DeepMind and University of Oxford Department of Computer Science.
 * [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) ⭐ 12,935 | 🐛 5 | 🌐 HTML | 📅 2026-08-22 : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
-* [YSDA NLP course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,655 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24. [Yandex School of data analysis](https://yandexdataschool.com/).
+* [YSDA NLP course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,657 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24. [Yandex School of data analysis](https://yandexdataschool.com/).
 * [Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 * [CMU CS 11-747: Neural Network for NLP](http://phontron.com/class/nn4nlp2017/)
 * [CMU Language and Statistics II: (More) Empirical Methods in Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
@@ -645,7 +645,7 @@ A curated list of resources for learning about natural language processing, text
 
 #### Getting Data out of PDFs
 
-* [PyPDF2](https://github.com/mstamy2/PyPDF2) ⭐ 10,175 | 🐛 133 | 🌐 Python | 📅 2026-08-27: PDF file manipulation (PDF to PDF).
+* [PyPDF2](https://github.com/mstamy2/PyPDF2) ⭐ 10,173 | 🐛 132 | 🌐 Python | 📅 2026-08-27: PDF file manipulation (PDF to PDF).
 * [pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract) ⭐ 2,255 | 🐛 5 | 🌐 Python | 📅 2022-06-24
 * [PDFLayoutTextStripper: Converts a pdf file into a text file while keeping the layout of the original pdf.](https://github.com/JonathanLink/PDFLayoutTextStripper) ⭐ 1,608 | 🐛 25 | 🌐 Java | 📅 2023-12-17
 * [Apache PDFBox](https://pdfbox.apache.org/)
@@ -668,8 +668,8 @@ A curated list of resources for learning about natural language processing, text
 
 ## Datasets
 
-* [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language) ⭐ 78,670 | 🐛 159 | 📅 2026-08-26
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,670 | 🐛 159 | 📅 2026-08-26
+* [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language) ⭐ 78,680 | 🐛 159 | 📅 2026-08-27
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,680 | 🐛 159 | 📅 2026-08-27
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,995 | 🐛 12 | 📅 2023-02-15
 * [Hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language) ⭐ 848 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-12
 * [Awesome Twitter](https://github.com/hridaydutta123/awesome-twitter-tools/blob/master/README.md) ⭐ 241 | 🐛 5 | 📅 2026-08-20
@@ -712,7 +712,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Lexicons for Sentiment Analysis
 
-* [vaderSentiment](https://github.com/cjhutto/vaderSentiment) ⭐ 5,053 | 🐛 56 | 🌐 Python | 📅 2026-03-02
+* [vaderSentiment](https://github.com/cjhutto/vaderSentiment) ⭐ 5,054 | 🐛 56 | 🌐 Python | 📅 2026-03-02
 * [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
 * [SentiWordNet](http://sentiwordnet.isti.cnr.it/)
 * [AFINN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010)
@@ -734,8 +734,8 @@ A curated list of resources for learning about natural language processing, text
 
 ## Other Curated Lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp) ⭐ 74,177 | 🐛 28 | 🌐 Python | 📅 2026-08-26
-* [awesome-nlp](https://github.com/keonkim/awesome-nlp) ⭐ 18,936 | 🐛 14 | 📅 2026-08-18: A curated list of resources dedicated to Natural Language Processing (NLP)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp) ⭐ 74,188 | 🐛 29 | 🌐 Python | 📅 2026-08-27
+* [awesome-nlp](https://github.com/keonkim/awesome-nlp) ⭐ 18,937 | 🐛 14 | 📅 2026-08-18: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) ⭐ 1,309 | 🐛 1 | 📅 2026-01-24
 * [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.
 * [Chinese NLP Tools](https://datascience.shanghai.nyu.edu/chinese-nlp-tools). 2019. List of tools for NLP in Chinese Language.
@@ -755,4 +755,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
