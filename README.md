@@ -356,7 +356,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Word and Document Embeddings
 
-* [Doc2Vec Tutorial on the Lee Dataset](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb) ⭐ 16,481 | 🐛 440 | 🌐 Python | 📅 2025-11-01
+* [Doc2Vec Tutorial on the Lee Dataset](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb) ⭐ 16,479 | 🐛 439 | 🌐 Python | 📅 2025-11-01
 * [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365). ElMo. [PyTorch implementation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) ⚠️ Archived. [TF Implementation](https://github.com/allenai/bilm-tf) ⭐ 1,612 | 🐛 41 | 🌐 Python | 📅 2023-03-04
 * [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/abs/1811.06031) Introducing a multi-task learning approach for a set of interrelated NLP tasks. Presented at AAAI conference in January 2019.[Implementation code](https://github.com/huggingface/hmtl) ⭐ 1,195 | 🐛 41 | 🌐 Python | 📅 2023-08-01.
 * [GloVe Word Embeddings Demo](https://github.com/fastai/word-embeddings-workshop/blob/master/Word%20Embeddings.ipynb) ⭐ 127 | 🐛 2 | 🌐 HTML | 📅 2017-07-19 2017. From fasti.
@@ -402,7 +402,7 @@ A curated list of resources for learning about natural language processing, text
 
 #### ChatGPT
 
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,128 | 🐛 69 | 🌐 HTML | 📅 2026-08-29
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,174 | 🐛 70 | 🌐 HTML | 📅 2026-08-29
 * [ChatGPT launch blog](https://openai.com/blog/chatgpt/)
 
 ##### ...in Education
@@ -501,7 +501,7 @@ A curated list of resources for learning about natural language processing, text
 
 * [Deep Learning for NLP](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02. DeepMind and University of Oxford Department of Computer Science.
 * [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) ⭐ 12,936 | 🐛 5 | 🌐 HTML | 📅 2026-08-22 : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
-* [YSDA NLP course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,658 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24. [Yandex School of data analysis](https://yandexdataschool.com/).
+* [YSDA NLP course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,659 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-24. [Yandex School of data analysis](https://yandexdataschool.com/).
 * [Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 * [CMU CS 11-747: Neural Network for NLP](http://phontron.com/class/nn4nlp2017/)
 * [CMU Language and Statistics II: (More) Empirical Methods in Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
@@ -645,7 +645,7 @@ A curated list of resources for learning about natural language processing, text
 
 #### Getting Data out of PDFs
 
-* [PyPDF2](https://github.com/mstamy2/PyPDF2) ⭐ 10,176 | 🐛 133 | 🌐 Python | 📅 2026-08-28: PDF file manipulation (PDF to PDF).
+* [PyPDF2](https://github.com/mstamy2/PyPDF2) ⭐ 10,177 | 🐛 133 | 🌐 Python | 📅 2026-08-28: PDF file manipulation (PDF to PDF).
 * [pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract) ⭐ 2,255 | 🐛 5 | 🌐 Python | 📅 2022-06-24
 * [PDFLayoutTextStripper: Converts a pdf file into a text file while keeping the layout of the original pdf.](https://github.com/JonathanLink/PDFLayoutTextStripper) ⭐ 1,608 | 🐛 25 | 🌐 Java | 📅 2023-12-17
 * [Apache PDFBox](https://pdfbox.apache.org/)
@@ -668,8 +668,8 @@ A curated list of resources for learning about natural language processing, text
 
 ## Datasets
 
-* [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language) ⭐ 78,694 | 🐛 159 | 📅 2026-08-28
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,694 | 🐛 159 | 📅 2026-08-28
+* [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language) ⭐ 78,706 | 🐛 159 | 📅 2026-08-29
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,706 | 🐛 159 | 📅 2026-08-29
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,995 | 🐛 12 | 📅 2023-02-15
 * [Hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language) ⭐ 848 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-12
 * [Awesome Twitter](https://github.com/hridaydutta123/awesome-twitter-tools/blob/master/README.md) ⭐ 241 | 🐛 5 | 📅 2026-08-20
@@ -734,9 +734,9 @@ A curated list of resources for learning about natural language processing, text
 
 ## Other Curated Lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp) ⭐ 74,202 | 🐛 29 | 🌐 Python | 📅 2026-08-27
-* [awesome-nlp](https://github.com/keonkim/awesome-nlp) ⭐ 18,940 | 🐛 15 | 📅 2026-08-18: A curated list of resources dedicated to Natural Language Processing (NLP)
-* [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) ⭐ 1,310 | 🐛 1 | 📅 2026-01-24
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp) ⭐ 74,210 | 🐛 30 | 🌐 Python | 📅 2026-08-27
+* [awesome-nlp](https://github.com/keonkim/awesome-nlp) ⭐ 18,942 | 🐛 16 | 📅 2026-08-18: A curated list of resources dedicated to Natural Language Processing (NLP)
+* [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) ⭐ 1,311 | 🐛 1 | 📅 2026-01-24
 * [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.
 * [Chinese NLP Tools](https://datascience.shanghai.nyu.edu/chinese-nlp-tools). 2019. List of tools for NLP in Chinese Language.
 * [Association for Computational Linguistics Papers Anthology](https://aclanthology.info/): The ACL Anthology currently hosts almost 50,000 papers on the study of computational linguistics and natural language processing.  Includes all papers from recent conferences.
