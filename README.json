@@ -194,7 +194,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40042,
+                "stars": 40043,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -401,7 +401,7 @@
                 "open_issues": 439,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16481,
+                "stars": 16480,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -519,10 +519,10 @@
                     "language": "HTML",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-06T03:17:52Z",
-                    "open_issues": 74,
+                    "open_issues": 78,
                     "owner": "f",
                     "repo": "prompts.chat",
-                    "stars": 169574,
+                    "stars": 169700,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -574,7 +574,7 @@
                 "open_issues": 40,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14929,
+                "stars": 14928,
                 "topics": [
                   "attention",
                   "bert",
@@ -666,7 +666,7 @@
                 "open_issues": 5,
                 "owner": "kmario23",
                 "repo": "deep-learning-drizzle",
-                "stars": 12942,
+                "stars": 12943,
                 "topics": [
                   "artificial-intelligence-algorithms",
                   "artificial-neural-networks",
@@ -708,7 +708,7 @@
                 "open_issues": 8,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10673,
+                "stars": 10675,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1059,7 +1059,7 @@
                 "open_issues": 23,
                 "owner": "JasonKessler",
                 "repo": "scattertext",
-                "stars": 2342,
+                "stars": 2343,
                 "topics": [
                   "computational-social-science",
                   "d3",
@@ -1314,11 +1314,11 @@
                 "id": 3119517,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T20:35:20Z",
+                "last_commit": "2026-09-08T21:52:14Z",
                 "open_issues": 132,
                 "owner": "py-pdf",
                 "repo": "pypdf",
-                "stars": 10195,
+                "stars": 10196,
                 "topics": [
                   "help-wanted",
                   "pdf",
@@ -1348,7 +1348,7 @@
                 "open_issues": 5,
                 "owner": "WZBSocialScienceCenter",
                 "repo": "pdftabextract",
-                "stars": 2254,
+                "stars": 2253,
                 "topics": [
                   "data-mining",
                   "image-processing",
@@ -1412,11 +1412,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-03T21:42:22Z",
+            "last_commit": "2026-09-08T20:10:16Z",
             "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78848,
+            "stars": 78872,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1438,11 +1438,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-03T21:42:22Z",
+            "last_commit": "2026-09-08T20:10:16Z",
             "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78848,
+            "stars": 78872,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1606,7 +1606,7 @@
                 "open_issues": 56,
                 "owner": "cjhutto",
                 "repo": "vaderSentiment",
-                "stars": 5060,
+                "stars": 5061,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1634,11 +1634,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T19:29:21Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-08T17:30:34Z",
+            "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74276,
+            "stars": 74281,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1699,7 +1699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:07:22.224Z",
+    "last_updated": "2026-09-08T21:55:54.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for learning about Text Mining and Natural Language Processing",
