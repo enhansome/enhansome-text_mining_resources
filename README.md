@@ -313,7 +313,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Machine Translation
 
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) A new language representation model published in 2018. [Implementation code](https://github.com/google-research/bert) ⚠️ Archived. [Pytorch port.](https://github.com/codertimo/BERT-pytorch) ⭐ 6,528 | 🐛 68 | 🌐 Python | 📅 2023-09-15
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) A new language representation model published in 2018. [Implementation code](https://github.com/google-research/bert) ⚠️ Archived. [Pytorch port.](https://github.com/codertimo/BERT-pytorch) ⭐ 6,527 | 🐛 68 | 🌐 Python | 📅 2023-09-15
 * [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt) ⚠️ Archived
 * [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755) Proposed two model variants: neural and phrase-based model. Awarded as the Best Paper Award at EMNLP 2018. [Implementation code](https://github.com/facebookresearch/UnsupervisedMT) ⚠️ Archived.
 * [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
@@ -343,7 +343,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
 
-* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,512 | 🐛 92 | 🌐 Python | 📅 2025-07-29: A Python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
+* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,511 | 🐛 92 | 🌐 Python | 📅 2025-07-29: A Python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 * [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,062 | 🐛 64 | 🌐 Python | 📅 2024-02-21: A toolkit for record linkage and deduplication written in Python.
 * [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink) ⭐ 293 | 🐛 36 | 🌐 R | 📅 2026-02-28
 * [agrep method in R](http://stat.ethz.ch/R-manual/R-devel/library/base/html/agrep.html). Approximate String Matching (Fuzzy Matching)
@@ -356,7 +356,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Word and Document Embeddings
 
-* [Doc2Vec Tutorial on the Lee Dataset](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb) ⭐ 16,482 | 🐛 440 | 🌐 Python | 📅 2025-11-01
+* [Doc2Vec Tutorial on the Lee Dataset](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb) ⭐ 16,483 | 🐛 440 | 🌐 Python | 📅 2025-11-01
 * [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365). ElMo. [PyTorch implementation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) ⚠️ Archived. [TF Implementation](https://github.com/allenai/bilm-tf) ⭐ 1,609 | 🐛 41 | 🌐 Python | 📅 2023-03-04
 * [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/abs/1811.06031) Introducing a multi-task learning approach for a set of interrelated NLP tasks. Presented at AAAI conference in January 2019.[Implementation code](https://github.com/huggingface/hmtl) ⭐ 1,196 | 🐛 41 | 🌐 Python | 📅 2023-08-01.
 * [GloVe Word Embeddings Demo](https://github.com/fastai/word-embeddings-workshop/blob/master/Word%20Embeddings.ipynb) ⭐ 127 | 🐛 2 | 🌐 HTML | 📅 2017-07-19 2017. From fasti.
@@ -402,7 +402,7 @@ A curated list of resources for learning about natural language processing, text
 
 #### ChatGPT
 
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,131 | 🐛 78 | 🌐 HTML | 📅 2026-09-09
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,246 | 🐛 78 | 🌐 HTML | 📅 2026-09-09
 * [ChatGPT launch blog](https://openai.com/blog/chatgpt/)
 
 ##### ...in Education
@@ -417,7 +417,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Deep Learning
 
-* [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) ⭐ 14,929 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21: A 2019 NLP tutorial repository using TensorFlow and Pytorch.
+* [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) ⭐ 14,930 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21: A 2019 NLP tutorial repository using TensorFlow and Pytorch.
 * [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2018-08-22.
 * [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/).
   * First half of the article describes RNNs, the anatomy of an LSTM cell, LSTM networks. Second half is a walkthrough of features in Keras for LSTM implementation using generators for data input.
@@ -501,7 +501,7 @@ A curated list of resources for learning about natural language processing, text
 
 * [Deep Learning for NLP](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02. DeepMind and University of Oxford Department of Computer Science.
 * [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) ⭐ 12,942 | 🐛 5 | 🌐 HTML | 📅 2026-08-22 : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
-* [YSDA NLP course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,681 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-11. [Yandex School of data analysis](https://yandexdataschool.com/).
+* [YSDA NLP course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,683 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-11. [Yandex School of data analysis](https://yandexdataschool.com/).
 * [Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 * [CMU CS 11-747: Neural Network for NLP](http://phontron.com/class/nn4nlp2017/)
 * [CMU Language and Statistics II: (More) Empirical Methods in Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
@@ -601,7 +601,7 @@ A curated list of resources for learning about natural language processing, text
 
 ## Products
 
-* [Anafora](https://github.com/weitechen/anafora) ⭐ 242 | 🐛 43 | 🌐 JavaScript | 📅 2022-10-10: Free and open source web-based raw text annotation tool
+* [Anafora](https://github.com/weitechen/anafora) ⭐ 243 | 🐛 43 | 🌐 JavaScript | 📅 2022-10-10: Free and open source web-based raw text annotation tool
 * [Systran - Enterprise Translation Products](http://www.systransoft.com/translation-products/)
 * [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
 * [SAS Sentiment Analysis](http://www.sas.com/en_ca/software/analytics/sentiment-analysis.html)
@@ -645,7 +645,7 @@ A curated list of resources for learning about natural language processing, text
 
 #### Getting Data out of PDFs
 
-* [PyPDF2](https://github.com/mstamy2/PyPDF2) ⭐ 10,197 | 🐛 131 | 🌐 Python | 📅 2026-09-12: PDF file manipulation (PDF to PDF).
+* [PyPDF2](https://github.com/mstamy2/PyPDF2) ⭐ 10,197 | 🐛 133 | 🌐 Python | 📅 2026-09-12: PDF file manipulation (PDF to PDF).
 * [pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract) ⭐ 2,253 | 🐛 5 | 🌐 Python | 📅 2022-06-24
 * [PDFLayoutTextStripper: Converts a pdf file into a text file while keeping the layout of the original pdf.](https://github.com/JonathanLink/PDFLayoutTextStripper) ⭐ 1,607 | 🐛 25 | 🌐 Java | 📅 2023-12-17
 * [Apache PDFBox](https://pdfbox.apache.org/)
@@ -668,8 +668,8 @@ A curated list of resources for learning about natural language processing, text
 
 ## Datasets
 
-* [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language) ⭐ 78,928 | 🐛 159 | 📅 2026-09-11
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,928 | 🐛 159 | 📅 2026-09-11
+* [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language) ⭐ 78,936 | 🐛 159 | 📅 2026-09-13
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,936 | 🐛 159 | 📅 2026-09-13
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,997 | 🐛 12 | 📅 2023-02-15
 * [Hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language) ⭐ 848 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-12
 * [Awesome Twitter](https://github.com/hridaydutta123/awesome-twitter-tools/blob/master/README.md) ⭐ 249 | 🐛 6 | 📅 2026-09-09
@@ -712,7 +712,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Lexicons for Sentiment Analysis
 
-* [vaderSentiment](https://github.com/cjhutto/vaderSentiment) ⭐ 5,063 | 🐛 56 | 🌐 Python | 📅 2026-03-02
+* [vaderSentiment](https://github.com/cjhutto/vaderSentiment) ⭐ 5,064 | 🐛 56 | 🌐 Python | 📅 2026-03-02
 * [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
 * [SentiWordNet](http://sentiwordnet.isti.cnr.it/)
 * [AFINN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010)
@@ -734,8 +734,8 @@ A curated list of resources for learning about natural language processing, text
 
 ## Other Curated Lists
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp) ⭐ 74,313 | 🐛 29 | 🌐 Python | 📅 2026-09-12
-* [awesome-nlp](https://github.com/keonkim/awesome-nlp) ⭐ 18,988 | 🐛 17 | 📅 2026-09-07: A curated list of resources dedicated to Natural Language Processing (NLP)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp) ⭐ 74,324 | 🐛 29 | 🌐 Python | 📅 2026-09-12
+* [awesome-nlp](https://github.com/keonkim/awesome-nlp) ⭐ 18,992 | 🐛 17 | 📅 2026-09-07: A curated list of resources dedicated to Natural Language Processing (NLP)
 * [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) ⭐ 1,311 | 🐛 2 | 📅 2026-01-24
 * [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.
 * [Chinese NLP Tools](https://datascience.shanghai.nyu.edu/chinese-nlp-tools). 2019. List of tools for NLP in Chinese Language.
@@ -755,4 +755,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
