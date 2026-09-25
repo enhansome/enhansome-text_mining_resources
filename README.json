@@ -156,7 +156,7 @@
                     "open_issues": 36,
                     "owner": "maxbbraun",
                     "repo": "trump2cash",
-                    "stars": 6543,
+                    "stars": 6544,
                     "topics": [
                       "bot",
                       "trading",
@@ -194,7 +194,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045,
+                "stars": 40046,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -308,7 +308,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4514,
+                "stars": 4515,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -401,7 +401,7 @@
                 "open_issues": 440,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16491,
+                "stars": 16493,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -522,7 +522,7 @@
                     "open_issues": 82,
                     "owner": "f",
                     "repo": "prompts.chat",
-                    "stars": 171188,
+                    "stars": 171269,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -574,7 +574,7 @@
                 "open_issues": 40,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14933,
+                "stars": 14934,
                 "topics": [
                   "attention",
                   "bert",
@@ -666,7 +666,7 @@
                 "open_issues": 5,
                 "owner": "kmario23",
                 "repo": "deep-learning-drizzle",
-                "stars": 12949,
+                "stars": 12951,
                 "topics": [
                   "artificial-intelligence-algorithms",
                   "artificial-neural-networks",
@@ -708,7 +708,7 @@
                 "open_issues": 9,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10699,
+                "stars": 10701,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -914,7 +914,7 @@
                 "open_issues": 304,
                 "owner": "jina-ai",
                 "repo": "clip-as-service",
-                "stars": 12831,
+                "stars": 12832,
                 "topics": [
                   "bert",
                   "bert-as-service",
@@ -1318,7 +1318,7 @@
                 "open_issues": 137,
                 "owner": "py-pdf",
                 "repo": "pypdf",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "help-wanted",
                   "pdf",
@@ -1416,7 +1416,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79146,
+            "stars": 79159,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1442,7 +1442,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79146,
+            "stars": 79159,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1468,7 +1468,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6000,
+            "stars": 6001,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1525,7 +1525,7 @@
             "open_issues": 5,
             "owner": "hridaydutta123",
             "repo": "awesome-twitter-tools",
-            "stars": 254,
+            "stars": 255,
             "topics": [
               "twitter",
               "twitter-api",
@@ -1606,7 +1606,7 @@
                 "open_issues": 56,
                 "owner": "cjhutto",
                 "repo": "vaderSentiment",
-                "stars": 5078,
+                "stars": 5077,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1638,7 +1638,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74442,
+            "stars": 74454,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1656,10 +1656,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19031,
+            "stars": 19033,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1699,7 +1699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:33:32.368Z",
+    "last_updated": "2026-09-25T22:32:34.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for learning about Text Mining and Natural Language Processing",
