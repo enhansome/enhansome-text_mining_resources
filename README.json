@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "100 Must-Read NLP Papers",
-              "description": null,
+              "description": "mhagiwara/100-nlp-papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Betty: a friendly English-like interface for your command line.",
-              "description": null,
+              "description": "pickhardt/betty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -42,7 +42,7 @@
                 "open_issues": 49,
                 "owner": "pickhardt",
                 "repo": "betty",
-                "stars": 2601,
+                "stars": 2600,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -55,7 +55,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repo with code: https://github.com/adilmoujahid/Twitter_Analytics",
-                  "description": null,
+                  "description": "adilmoujahid/Twitter_Analytics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -208,7 +208,7 @@
             {
               "node_type": "item",
               "title": "Neural Machine Translation (seq2seq) Tutorial",
-              "description": null,
+              "description": "tensorflow/nmt",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -257,7 +257,7 @@
             {
               "node_type": "item",
               "title": "Create a banking chatbot with FAQ discovery, anger detection and natural language understanding",
-              "description": null,
+              "description": "IBM/watson-banking-chatbot",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -360,7 +360,7 @@
             {
               "node_type": "item",
               "title": "R package fastLink: Fast Probabilistic Record Linkage",
-              "description": null,
+              "description": "kosukeimai/fastLink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -388,7 +388,7 @@
             {
               "node_type": "item",
               "title": "Doc2Vec Tutorial on the Lee Dataset",
-              "description": null,
+              "description": "piskvorky/gensim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,7 +401,7 @@
                 "open_issues": 440,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16495,
+                "stars": 16496,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -509,7 +509,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome ChatGPT Prompts",
-                  "description": null,
+                  "description": "f/prompts.chat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -522,7 +522,7 @@
                     "open_issues": 84,
                     "owner": "f",
                     "repo": "prompts.chat",
-                    "stars": 171870,
+                    "stars": 171880,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1253,7 +1253,7 @@
             {
               "node_type": "item",
               "title": "Github: https://github.com/mimno/Mallet",
-              "description": null,
+              "description": "mimno/Mallet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,7 +1335,7 @@
             {
               "node_type": "item",
               "title": "pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.",
-              "description": null,
+              "description": "WZBSocialScienceCenter/pdftabextract",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1363,7 +1363,7 @@
             {
               "node_type": "item",
               "title": "PDFLayoutTextStripper: Converts a pdf file into a text file while keeping the layout of the original pdf.",
-              "description": null,
+              "description": "JonathanLink/PDFLayoutTextStripper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1403,7 +1403,7 @@
         {
           "node_type": "item",
           "title": "Awesome Public Datasets' Natural Languge",
-          "description": null,
+          "description": "awesomedata/awesome-public-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1416,7 +1416,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79276,
+            "stars": 79277,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1429,7 +1429,7 @@
         {
           "node_type": "item",
           "title": "Awesome public datasets",
-          "description": null,
+          "description": "awesomedata/awesome-public-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1442,7 +1442,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79276,
+            "stars": 79277,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1455,7 +1455,7 @@
         {
           "node_type": "item",
           "title": "nlp-datasets",
-          "description": null,
+          "description": "niderhoff/nlp-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1476,7 +1476,7 @@
         {
           "node_type": "item",
           "title": "Hate-speech-and-offensive-language",
-          "description": null,
+          "description": "t-davidson/hate-speech-and-offensive-language",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1512,7 +1512,7 @@
         {
           "node_type": "item",
           "title": "Awesome Twitter",
-          "description": null,
+          "description": "hridaydutta123/awesome-twitter-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1593,7 +1593,7 @@
             {
               "node_type": "item",
               "title": "vaderSentiment",
-              "description": null,
+              "description": "cjhutto/vaderSentiment",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1625,7 +1625,7 @@
         {
           "node_type": "item",
           "title": "awesome-machine-learning",
-          "description": null,
+          "description": "josephmisiti/awesome-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1638,7 +1638,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74510,
+            "stars": 74511,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1656,10 +1656,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19047,
+            "stars": 19049,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1676,7 +1676,7 @@
         {
           "node_type": "item",
           "title": "Awesome Deep Learning for Natural Language Processing (NLP)",
-          "description": null,
+          "description": "brianspiering/awesome-dl4nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1699,7 +1699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:05:21.754Z",
+    "last_updated": "2026-10-03T05:12:43.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for learning about Text Mining and Natural Language Processing",
