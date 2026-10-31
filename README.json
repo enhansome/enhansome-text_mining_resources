@@ -194,7 +194,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40036,
+                "stars": 40038,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -401,7 +401,7 @@
                 "open_issues": 449,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16507,
+                "stars": 16508,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -518,11 +518,11 @@
                     "id": 574523116,
                     "language": "HTML",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-30T14:30:36Z",
+                    "last_commit": "2026-10-31T18:47:03Z",
                     "open_issues": 79,
                     "owner": "f",
                     "repo": "prompts.chat",
-                    "stars": 175274,
+                    "stars": 175432,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -708,7 +708,7 @@
                 "open_issues": 10,
                 "owner": "yandexdataschool",
                 "repo": "nlp_course",
-                "stars": 10754,
+                "stars": 10755,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1314,8 +1314,8 @@
                 "id": 3119517,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T11:59:14Z",
-                "open_issues": 147,
+                "last_commit": "2026-10-31T14:29:07Z",
+                "open_issues": 141,
                 "owner": "py-pdf",
                 "repo": "pypdf",
                 "stars": 10281,
@@ -1416,7 +1416,7 @@
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79860,
+            "stars": 79877,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1442,7 +1442,7 @@
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79860,
+            "stars": 79877,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1522,7 +1522,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-30T02:18:30Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "hridaydutta123",
             "repo": "awesome-twitter-tools",
             "stars": 260,
@@ -1638,7 +1638,7 @@
             "open_issues": 31,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74692,
+            "stars": 74701,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1656,10 +1656,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19117,
+            "stars": 19118,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1689,7 +1689,7 @@
             "open_issues": 2,
             "owner": "brianspiering",
             "repo": "awesome-dl4nlp",
-            "stars": 1310,
+            "stars": 1311,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1699,7 +1699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:03:22.238Z",
+    "last_updated": "2026-10-31T22:37:09.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for learning about Text Mining and Natural Language Processing",
