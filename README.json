@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "mhagiwara",
                 "repo": "100-nlp-papers",
-                "stars": 3849,
+                "stars": 3850,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -401,7 +401,7 @@
                 "open_issues": 453,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16512,
+                "stars": 16513,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -518,11 +518,11 @@
                     "id": 574523116,
                     "language": "MDX",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-10T14:05:26Z",
-                    "open_issues": 84,
+                    "last_commit": "2026-11-11T08:31:02Z",
+                    "open_issues": 83,
                     "owner": "f",
                     "repo": "prompts.chat",
-                    "stars": 176843,
+                    "stars": 176926,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -574,7 +574,7 @@
                 "open_issues": 38,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14933,
+                "stars": 14932,
                 "topics": [
                   "attention",
                   "bert",
@@ -639,7 +639,7 @@
                 "open_issues": 12,
                 "owner": "oxford-cs-deepnlp-2017",
                 "repo": "lectures",
-                "stars": 15845,
+                "stars": 15844,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -666,7 +666,7 @@
                 "open_issues": 5,
                 "owner": "kmario23",
                 "repo": "deep-learning-drizzle",
-                "stars": 12987,
+                "stars": 12988,
                 "topics": [
                   "artificial-intelligence-algorithms",
                   "artificial-neural-networks",
@@ -884,7 +884,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14399,
+                "stars": 14400,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -979,7 +979,7 @@
                 "open_issues": 198,
                 "owner": "google",
                 "repo": "seq2seq",
-                "stars": 5618,
+                "stars": 5619,
                 "topics": [
                   "deeplearning",
                   "machine-translation",
@@ -1101,7 +1101,7 @@
                 "open_issues": 66,
                 "owner": "maciejkula",
                 "repo": "glove-python",
-                "stars": 1253,
+                "stars": 1252,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1266,7 +1266,7 @@
                 "open_issues": 118,
                 "owner": "mimno",
                 "repo": "Mallet",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1295,7 +1295,7 @@
             "open_issues": 43,
             "owner": "weitechen",
             "repo": "anafora",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1314,11 +1314,11 @@
                 "id": 3119517,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T20:36:53Z",
+                "last_commit": "2026-11-11T20:22:31Z",
                 "open_issues": 162,
                 "owner": "py-pdf",
                 "repo": "pypdf",
-                "stars": 10295,
+                "stars": 10298,
                 "topics": [
                   "help-wanted",
                   "pdf",
@@ -1412,11 +1412,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-10T21:44:04Z",
+            "last_commit": "2026-11-11T17:15:09Z",
             "open_issues": 169,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 80022,
+            "stars": 80038,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1438,11 +1438,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-10T21:44:04Z",
+            "last_commit": "2026-11-11T17:15:09Z",
             "open_issues": 169,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 80022,
+            "stars": 80038,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1634,11 +1634,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T23:05:27Z",
+            "last_commit": "2026-11-11T19:58:53Z",
             "open_issues": 35,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74791,
+            "stars": 74800,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:16.377Z"
@@ -1656,10 +1656,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 11,
+            "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19146,
+            "stars": 19148,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1699,7 +1699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:06:23.828Z",
+    "last_updated": "2026-11-12T01:34:55.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for learning about Text Mining and Natural Language Processing",
